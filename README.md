@@ -2,7 +2,7 @@
 
 
 Daniel Xu <br />
-Tech used: Python, Pandas
+Tech used: Python, Pandas <br/>
 Next steps: Use Scikit-Learn to apply machine learning concepts
 
 
